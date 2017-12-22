@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"id": "1513885605091",
+			"json": {
+				"enabled": true,
+				"name": "Asana",
+				"url": "",
+				"updateUrl": "",
+				"sections": [
+					{
+						"code": "/* Tags */\n.PotPillsContainer-potPillLink {\n  max-width: 300px !important;\n}\n/* Dropdown Header */\n.CustomPropertyHeader--editable .CustomPropertyHeader-fieldHeading--enum {\n  width: 170px !important;\n}\n/* Dropdown Field */\n.CustomPropertyEnumEditablePreviewCell {\n  width: 180px !important;\n}",
+						"domains": [
+							"app.asana.com"
+						],
+						"regexps": [],
+						"urlPrefixes": [],
+						"urls": []
+					}
+				]
+			}
+		}
+	]
+}
