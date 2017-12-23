@@ -1,0 +1,12 @@
+/* Tags */
+.PotPillsContainer-potPillLink {
+  max-width: 300px !important;
+}
+/* Dropdown Header */
+.CustomPropertyHeader--editable .CustomPropertyHeader-fieldHeading--enum {
+  width: 170px !important;
+}
+/* Dropdown Field */
+.CustomPropertyEnumEditablePreviewCell {
+  width: 180px !important;
+}
